@@ -1,1 +1,1 @@
-Realizar la reserva de un libro.
+Realizar la reserva.
